@@ -1,4 +1,6 @@
-DevOps Project 1 --Simple Nose.js App
+* (SIMPLE UI AND FOCUSING ON THE ARCHITECTURE OF BUILDING AS DEVOPS ENGINEER)
+
+DevOps Project 1 --Simple Node.js App
 ****************************************
 This is my first DevOps project where I built a simple Node.js application and automated its
 deployment using Docker, GitHub Actions, and AWS EC2.
@@ -23,3 +25,7 @@ Pulls and runs the container
 
 This project helped me gain hands-on experience with CI/CD pipelines, Docker containers,
 Debugging real DevOps issues and handling secrets securely.
+
+UI Preview
+************
+![App UI](1APRIL2026.png)
