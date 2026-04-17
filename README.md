@@ -5,8 +5,8 @@
 This is my first DevOps project where I built a simple Node.js application and automated its
 deployment using Docker, GitHub Actions, and AWS EC2.
 
-Steps
-********
+## Steps
+**********
 1) Built so simple Node.js app
 2) Dockerized the application
 3) Pushed code to GitHub
@@ -14,8 +14,8 @@ Steps
 5) Built and pushed Docker image to Docker Hub
 6) Deployed the app automatically to AWS EC2 using SSH
 
-How it works
-****************
+### How it works
+******************
 When I push code to GitHub:
 GitHub Actions builds the Docker image
 Logs into Docker Hub
