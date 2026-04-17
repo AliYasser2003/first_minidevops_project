@@ -29,3 +29,7 @@ Debugging real DevOps issues and handling secrets securely.
 UI Preview
 ************
 ![App UI](1APRIL2026.png)
+
+## Author
+Ali Yasser
+
