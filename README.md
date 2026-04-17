@@ -1,6 +1,6 @@
 * (SIMPLE UI AND FOCUSING ON THE ARCHITECTURE OF BUILDING AS DEVOPS ENGINEER)
 
-DevOps Project 1 --Simple Node.js App
+# DevOps Project 1 --Simple Node.js App
 ****************************************
 This is my first DevOps project where I built a simple Node.js application and automated its
 deployment using Docker, GitHub Actions, and AWS EC2.
